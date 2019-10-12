@@ -1,0 +1,7 @@
+
+{
+  "templatesRoot": "./conjurate",
+  "templates": {
+    "component": "./src/components"
+  }
+}

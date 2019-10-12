@@ -1,0 +1,15 @@
+{
+  "name": "conjurate-example",
+  "version": "1.0.0",
+  "main": ".conjurate.json",
+  "scripts": {
+    "gen": "conjurate"
+  },
+  "author": "Filipe Linhares",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "conjurate": "^0.3.0",
+    "conjurate-open-wc": "^0.1.0"
+  }
+}
